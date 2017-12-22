@@ -1,0 +1,23 @@
+{
+  "name": "chatwidget-socket.io",
+  "version": "1.0.0",
+  "description": "a simple group chat using socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apoorv2345/chatwidget-socket.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Apoorv2345/chatwidget-socket.io/issues"
+  },
+  "homepage": "https://github.com/Apoorv2345/chatwidget-socket.io#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.0.4"
+  }
+}
